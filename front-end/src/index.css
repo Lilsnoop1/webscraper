@@ -1,0 +1,77 @@
+
+body {
+  background-color: #183D3D;
+}
+.bookmark{
+  height: 30px;
+  width: 30px;
+  align-self: flex-start;
+}
+.nav-title{
+  font-size: 2rem;
+  position: relative;
+  bottom: 18px;
+  color:white;
+  align-self: flex-start;
+}
+.football-content{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 4rem;
+  height: 100vh;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  gap: 3rem;
+}
+.league-bar{
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  margin-left: 2rem;
+}
+.content{
+  display: flex;
+  border: 2px solid white;
+  border-radius: 7px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 8px;
+}
+.text{
+  border-bottom: 2px solid black;
+}
+.content-column{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 1rem;
+}
+.navbar{
+  display: flex;
+  height: 4rem;
+  margin-top: 1rem;
+  width: 100%;
+  gap: 2rem;
+  font-size: 1.5rem;
+  justify-content: space-around;
+  align-items: center;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.nav-link{
+  text-decoration: none;
+  color: black;
+  height: 2rem;
+  color: #93B1A6;
+}
+.nav-link:hover{
+  border-bottom: 1px solid #FF0000;
+}
+.image{
+  height: 100px;
+  width: 100px;
+}

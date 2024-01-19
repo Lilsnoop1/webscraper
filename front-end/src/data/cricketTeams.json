@@ -1,0 +1,63 @@
+{
+  "teams":[
+  {
+  "name":"India",
+  "date": "Jan 25, Thu - Jan 29, Mon",
+  "versus": "India vs England, 1st Test"
+  },
+  {
+  "name":"Afghanistan",
+  "date": "Feb 02, Fri - Feb 06, Tue",
+  "versus": "Sri Lanka vs Afghanistan, Only Test"
+  },
+  {
+  "name":"Ireland",
+  "date": "Feb 28, Wed - Mar 03, Sun",
+  "versus": "Afghanistan vs Ireland, Only Test"
+  },
+  {  
+    "name":"Pakistan",
+    "date": "Jan 21, Sun",
+    "versus": "New Zealand vs Pakistan, 5th T20I"
+  },
+  {
+    "name":"Australia",
+    "date": "Jan 25, Thu - Jan 29, Mon",
+    "versus": "Australia vs West Indies, 2nd Test"
+  },
+  {
+    "name":"Sri Lanka",
+    "date": "Feb 02, Fri - Feb 06, Tue",
+    "versus": "Sri Lanka vs Afghanistan, Only Test"
+  },
+  {
+    "name":"Bangladesh",
+    "date": "Jun 07, Fri",
+    "versus": "Sri Lanka vs Bangladesh, 15th Match, Group D"
+  },
+  {
+    "name":"England",
+    "date": "Jan 25, Thu - Jan 29, Mon",
+    "versus": "India vs England, 1st Test"
+  },
+  {
+    "name":"West Indies",
+    "date": "Jan 25, Thu - Jan 29, Mon",
+    "versus": "Australia vs West Indies, 2nd Test"
+  },
+  {
+    "name":"South Africa",
+    "date": "Feb 04, Sun - Feb 08, Thu",
+    "versus": "New Zealand vs South Africa, 1st Test"
+  },
+  {"name":"Zimbabwe",
+    "date": "May 28, Wed - May 31, Sat",
+    "versus": "England vs Zimbabwe, Four-day Test"
+  },
+  {
+    "name":"New Zealand",
+    "date": "Jan 21, Sun",
+    "versus": "New Zealand vs Pakistan, 5th T20I"
+  }
+  ]
+}
